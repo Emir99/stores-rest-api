@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4693ba14-08f8-4e25-b7a6-54a493f3542e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app4.py" beforeDir="false" afterPath="$PROJECT_DIR$/app4.py" afterDir="false" />
     </list>
@@ -159,8 +158,23 @@
       <workItem from="1575463369124" duration="4071000" />
       <workItem from="1575550474615" duration="3871000" />
       <workItem from="1575636221723" duration="383000" />
-      <workItem from="1575636620234" duration="1951000" />
+      <workItem from="1575636620234" duration="2930000" />
     </task>
+    <task id="LOCAL-00001" summary="Fixed not importing db when running the app">
+      <created>1575639428957</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575639428957</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fixed not importing db when running the app">
+      <created>1575639454539</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575639454539</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +192,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed not importing db when running the app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed not importing db when running the app" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SQLAlchemy$create_table.coverage" NAME="create_table Coverage Results" MODIFIED="1575384090248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
